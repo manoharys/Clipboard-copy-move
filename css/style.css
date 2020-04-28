@@ -26,3 +26,9 @@ button {
     flex-direction: column;
     margin: 30px 30px
 }
+
+.output
+{  width: 100%;
+    margin:100px;
+  
+}
